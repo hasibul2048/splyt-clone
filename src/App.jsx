@@ -3,7 +3,7 @@ import NavBar from './components/NavBar'
 import HeroSection from './sections/HeroSection'
 import gsap from "gsap"
 import {ScrollTrigger} from "gsap/all"
-import MessageSecton from './sections/MessageSecton'
+import MessageSecton from './sections/MessageSection'
 
 gsap.registerPlugin(ScrollTrigger);
 
